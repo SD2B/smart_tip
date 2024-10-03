@@ -60,12 +60,8 @@ class SmartTip extends HookWidget {
       overlayEntry.value = OverlayEntry(
         builder: (context) => Positioned(
           left: offset!.dx,
-          top: position == TooltipPosition.bottom
-              ? offset.dy + size!.height + 5.0
-              : null,
-          bottom: position == TooltipPosition.top
-              ? (MediaQuery.of(context).size.height - offset.dy)
-              : null,
+          top: position == TooltipPosition.bottom ? offset.dy + size!.height + 5.0 : null,
+          bottom: position == TooltipPosition.top ? (MediaQuery.of(context).size.height - offset.dy) : null,
           child: Material(
             color: backgroundColor ?? Colors.transparent,
             borderRadius: BorderRadius.circular(cornerRadius ?? 4.0),
