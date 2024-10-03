@@ -1,9 +1,7 @@
 name: smart_tip
 description: A customizable tooltip package for Flutter using flutter_hooks.
 version: 0.0.1
-# homepage: https://github.com/your_username/smart_tip
-# repository: https://github.com/your_username/smart_tip
-# issue_tracker: https://github.com/your_username/smart_tip/issues
+homepage: https://github.com/SD2B/smart_tip.git
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
