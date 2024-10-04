@@ -127,7 +127,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Developed with ❤️ by [Sanoop Das](https://your-profile-url.com). Connect with me on [LinkedIn](https://linkedin.com/in/your-link).
+Developed with ❤️ by [Sanoop Das](https://codelife.in). Connect with me on [LinkedIn](https://www.linkedin.com/in/sd2b/).
 
 ---
 
